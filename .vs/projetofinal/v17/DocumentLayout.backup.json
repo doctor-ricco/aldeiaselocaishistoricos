@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\criar_conta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|solutionrelative:projetofinal\\criar_conta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|c:\\users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\criar_conta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|solutionrelative:projetofinal\\criar_conta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\modelo.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|solutionrelative:projetofinal\\modelo.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|solutionrelative:projetofinal\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|c:\\users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|solutionrelative:projetofinal\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\utilizadores\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|solutionrelative:projetofinal\\utilizadores\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|solutionrelative:projetofinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|solutionrelative:projetofinal\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\modelo.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835ECDEC-4C56-4B32-A1DF-D2AD669CC6DC}|projetofinal\\projetofinal.csproj|solutionrelative:projetofinal\\modelo.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\login.aspx.cs",
+              "RelativeDocumentMoniker": "projetofinal\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\login.aspx.cs",
+              "RelativeToolTip": "projetofinal\\login.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:39:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\login.aspx",
+              "RelativeDocumentMoniker": "projetofinal\\login.aspx",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\login.aspx",
+              "RelativeToolTip": "projetofinal\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T11:02:19.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "modelo.Master.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\modelo.Master.cs",
+              "RelativeDocumentMoniker": "projetofinal\\modelo.Master.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\modelo.Master.cs",
+              "RelativeToolTip": "projetofinal\\modelo.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:57:54.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "modelo.Master",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\modelo.Master",
+              "RelativeDocumentMoniker": "projetofinal\\modelo.Master",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\modelo.Master",
+              "RelativeToolTip": "projetofinal\\modelo.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T10:35:53.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "criar_conta.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\criar_conta.aspx.cs",
+              "RelativeDocumentMoniker": "projetofinal\\criar_conta.aspx.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\criar_conta.aspx.cs",
+              "RelativeToolTip": "projetofinal\\criar_conta.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:55:08.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "criar_conta.aspx",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\criar_conta.aspx",
+              "RelativeDocumentMoniker": "projetofinal\\criar_conta.aspx",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\criar_conta.aspx",
+              "RelativeToolTip": "projetofinal\\criar_conta.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-12T10:25:50.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\Utilizadores\\Web.config",
+              "RelativeDocumentMoniker": "projetofinal\\Utilizadores\\Web.config",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\Utilizadores\\Web.config",
+              "RelativeToolTip": "projetofinal\\Utilizadores\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-12T10:24:26.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\Web.config",
+              "RelativeDocumentMoniker": "projetofinal\\Web.config",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\Web.config",
+              "RelativeToolTip": "projetofinal\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-12T10:11:03.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\Global.asax.cs",
+              "RelativeDocumentMoniker": "projetofinal\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\projetofinal\\projetofinal\\Global.asax.cs",
+              "RelativeToolTip": "projetofinal\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:09:56.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
