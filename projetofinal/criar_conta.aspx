@@ -29,7 +29,7 @@
         <tr>
             <td>Data Nascimento</td>
             <td>
-                <asp:TextBox runat="server" ID="textDataNasc" CssClass="form-control" required="required" />
+                <asp:TextBox runat="server" ID="textDataNasc" CssClass="form-control" TextMode="Date" required="required" />
                 <asp:RequiredFieldValidator ErrorMessage="Campo obrigatório" ControlToValidate="textDataNasc" runat="server" ForeColor="#CC0000" />
                 <asp:CompareValidator
                     ID="cvDataNascimento" runat="server" ControlToValidate="textDataNasc" ForeColor="Red">

@@ -94,6 +94,7 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Global.asax" />
     <Content Include="login.aspx" />
+    <Content Include="paginaInicial.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -107,6 +108,9 @@
     <Content Include="Scripts\jquery-3.7.1.slim.js" />
     <Content Include="Scripts\jquery-3.7.1.slim.min.js" />
     <Content Include="criar_conta.aspx" />
+    <Content Include="Utilizadores\areaPessoal.aspx" />
+    <Content Include="Utilizadores\criarLocal.aspx" />
+    <Content Include="Utilizadores\editarLocal.aspx" />
     <Content Include="Web.config" />
     <Content Include="Utilizadores\Web.config" />
   </ItemGroup>
@@ -128,6 +132,13 @@
     <Compile Include="modelo.Master.designer.cs">
       <DependentUpon>modelo.Master</DependentUpon>
     </Compile>
+    <Compile Include="paginaInicial.aspx.cs">
+      <DependentUpon>paginaInicial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginaInicial.aspx.designer.cs">
+      <DependentUpon>paginaInicial.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="criar_conta.aspx.cs">
       <DependentUpon>criar_conta.aspx</DependentUpon>
@@ -135,6 +146,27 @@
     </Compile>
     <Compile Include="criar_conta.aspx.designer.cs">
       <DependentUpon>criar_conta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Utilizadores\areaPessoal.aspx.cs">
+      <DependentUpon>areaPessoal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Utilizadores\areaPessoal.aspx.designer.cs">
+      <DependentUpon>areaPessoal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Utilizadores\criarLocal.aspx.cs">
+      <DependentUpon>criarLocal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Utilizadores\criarLocal.aspx.designer.cs">
+      <DependentUpon>criarLocal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Utilizadores\editarLocal.aspx.cs">
+      <DependentUpon>editarLocal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Utilizadores\editarLocal.aspx.designer.cs">
+      <DependentUpon>editarLocal.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

@@ -33,11 +33,10 @@ namespace projetofinal.Utilizadores
             //Criar Utilizador (Locais.Utilizador)
             SqlConnection connection = new SqlConnection(
             @"data source=.\Sqlexpress; initial catalog = Locais; integrated security = true;");
-
             SqlCommand command = new SqlCommand();
             command.Connection = connection;
             command.CommandText = "INSERT Utilizador(Id, Nome, Email, DataNascimento) " +
-             "VALUES(@nome, @email, @data, @user_id)";
+             "VALUES(@user_id, @nome, @email, @data)";
             command.Parameters.AddWithValue("@nome", textNome.Text);
             command.Parameters.AddWithValue("@email", textEmail.Text);
             command.Parameters.AddWithValue("@data", DateTime.Parse(textDataNasc.Text));

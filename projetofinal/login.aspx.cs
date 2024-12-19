@@ -21,10 +21,10 @@ namespace projetofinal
 
         }
 
-        protected void buttonLogin_Click(object sender, EventArgs e)
+        protected void loginUtilizador_LoggedIn(object sender, EventArgs e)
         {
             //obter dados do utilizador - Membership
-            MembershipUser user = Membership.GetUser(loginUtilizador.Text);
+            MembershipUser user = Membership.GetUser(loginUtilizador.UserName);
             //Login de utilizador - obter ID (chave primária - Utilizador) e colocar em Session
             SqlConnection connection = new SqlConnection(
             @"data source=.\Sqlexpress; initial catalog = Locais; integrated security = true;");
@@ -43,7 +43,8 @@ namespace projetofinal
             connection.Close();
             Session["id_utilizador"] = id;
             Response.Redirect("paginaInicial.aspx");
-
         }
+
+       
     }
 }

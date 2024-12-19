@@ -4,28 +4,28 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="headContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="mainContent" runat="server">
-    <asp:Label runat="server" Font-Bold="true">Login</asp:Label>
+    <asp:Label runat="server" Font-Bold="true">Login</asp:Label><br/><br/>
 
-    <table>
-        <tr>
-            <td>Utilizador</td>
-            <td>
-                <asp:TextBox runat="server" ID="loginUtilizador" CssClass="form-control" required="required" />
-                <asp:RequiredFieldValidator ErrorMessage="Campo obrigatório" ControlToValidate="loginUtilizador" runat="server" ForeColor="#CC0000" />
-            </td>
-        </tr>
-        <tr>
-            <td>Password</td>
-            <td>
-                <asp:TextBox runat="server" ID="TextPass" CssClass="form-control" required="required" />
-                <asp:RequiredFieldValidator ErrorMessage="Campo obrigatório" ControlToValidate="TextPass" runat="server" ForeColor="#CC0000" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <asp:Button runat="server" ID="buttonLogin" Text="Login" CssClass="btn" Style="background-color: #D7D3BF;" OnClick="buttonLogin_Click" />
-            </td>
-        </tr>
-    </table>
+    <asp:Login ID="loginUtilizador" runat="server" CssClass="custom-login">
+    <LayoutTemplate>
+        <div class="login-container">
+            <div class="form-group">
+                <label for="UserName">Nome de Usuário</label>
+                <asp:TextBox ID="UserName" runat="server" CssClass="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="Password">Senha</label>
+                <asp:TextBox ID="Password" runat="server" CssClass="form-control" TextMode="Password" />
+            </div>
+            <div class="form-group">
+                <asp:CheckBox ID="RememberMe" runat="server" Text="Lembrar-me" />
+            </div>
+            <asp:Button runat="server" ID="buttonLogin" Text="Login" CssClass="btn" Style="background-color: #D7D3BF;" OnClick="loginUtilizador_LoggedIn"  />
+        </div>
+    </LayoutTemplate>
+</asp:Login>
+
+
+ 
 </asp:Content>
 
